@@ -36,6 +36,17 @@ h1 {
   gap: 10px;
   justify-content: center;
 }
+.reset_value {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+#input_field {
+  padding: 5px;
+  border-radius: 5px;
+  border-non
+}
 
 button {
   font-size: 18px;
