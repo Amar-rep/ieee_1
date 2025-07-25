@@ -9,7 +9,6 @@ function updateCounter() {
   counter.textContent = count;
 }
 
-// Event listeners
 incrementBtn.addEventListener("click", function () {
   count++;
   updateCounter();
