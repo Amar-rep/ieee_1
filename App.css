@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+
+body {
+  background: #f8f9fa;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+
+.App {
+  background: #fff;
+  width: 600px;
+  max-width: 90%;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: #0077cc;
+}
+
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #f1f9ff;
+  margin-bottom: 0.8rem;
+  padding: 1rem;
+  border-radius: 8px;
+  transition: background 0.3s ease;
+}
